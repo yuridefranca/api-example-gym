@@ -35,7 +35,7 @@ To run this project in you local you will need the following tools:
 $ git clone git@github.com:yuridefranca/api-example-gym.git
 
 # Entre no diretório raiz do projeto
-$ cd api_example_gym
+$ cd api-example-gym
 
 # Execute o seguinte comando para iniciar o docker
 $ ./startDocker.sh
