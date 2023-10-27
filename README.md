@@ -32,7 +32,7 @@ To run this project in you local you will need the following tools:
 ## Modo de usar
 ``` bash
 # Clone o repositório
-$ git clone 
+$ git clone git@github.com:yuridefranca/api-example-gym.git
 
 # Entre no diretório raiz do projeto
 $ cd api_example_gym
