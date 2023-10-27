@@ -1,0 +1,15 @@
+{
+  "name": "api_example_gym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "start:dev": "node --watch api.js",
+    "test:e2e": "node --test --watch api.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

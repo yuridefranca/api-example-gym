@@ -1,0 +1,5 @@
+.editorconfig
+
+.env
+.env.*
+!.env.example
